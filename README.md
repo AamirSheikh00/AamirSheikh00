@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hey, I'm *Aamir Sheikh*. Currently a Third Year student at <b>College of Engineering, Pune</b>, one of India's oldest engineering colleges. I love to work with Data Structures and Algorithm to automate and build more efficient stuff. My main interests are in the field of ML, AI andData Science. 
+Hey, I'm *Aamir Sheikh*. Currently a Third Year student at <b>College of Engineering, Pune</b>, one of India's oldest engineering colleges. I love to work with Data Structures and Algorithm to automate and build more efficient stuff. My main interests are in the field of ML, AI and Data Science. 
 Do feel free to check out my repositories and colab on any challenging and fun ideas!
 
 Happy Coding!
@@ -21,6 +21,23 @@ Happy Coding!
 - 🔭 I’m currently working on learning and mastering Data Structures and Algorithms.
 - 🌱 I’m currently learning Operating Systems, Systems programming and Data Science.
 - 💬 Ask me about Machine Learning, Computer Vision, Python or C.
+
+**Languages and Tools:**  
+<p>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt = "cpp" src="https://img.shields.io/badge/C++-cyan?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt = "Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white">
+  <img alt = "Tensorflow" src="https://img.shields.io/badge/TensorFlow-darkorange?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img alt = "Jupyter" src="https://img.shields.io/badge/Jupyter-darkgreen?style=for-the-badge&logo=jupyter&logoColor=orange">
+</p>
+
+![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AamirSheikh00&show_icons=true&include_all_commits=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AamirSheikh00&theme=default) 
+
+
+
 
 
 <!---
