@@ -20,7 +20,7 @@ Do feel free to check out my repositories and colab on any challenging and fun i
 Happy Coding!
 
 
-  <img align="right" alt="GIF" src="https://github.com/AamirSheikh00/aAamirSheikh00/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/AamirSheikh00/AamirSheikh00/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 🔭 I’m currently working on learning and mastering Data Structures and Algorithms.
 - 🌱 I’m currently learning Operating Systems, Systems programming and Data Science.
