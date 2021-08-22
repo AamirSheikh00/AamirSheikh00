@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hey, I'm *Aamir Sheikh*. Currently a Third Year student at <b>College of Engineering, Pune</b>, one of India's oldest engineering colleges. I love to work with Data Structures and Algorithm to automate and build more efficient stuff. My main interests are in the field of ML, AI and Data Science. 
+Hey, I'm <b>Aamir Sheikh</b>. Currently a Third Year student at <b>College of Engineering, Pune</b>, one of India's oldest engineering colleges. I love to work with Data Structures and Algorithm to automate and build more efficient stuff. My main interests are in the field of ML, AI and Data Science. 
 Do feel free to check out my repositories and colab on any challenging and fun ideas!
 
 Happy Coding!
