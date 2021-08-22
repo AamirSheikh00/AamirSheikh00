@@ -1,4 +1,5 @@
-### Hello, I'm Aamir Sheikh
+### Hello! 👋
+### I'm Aamir Sheikh :)
 
 <!-- Social icons section -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
